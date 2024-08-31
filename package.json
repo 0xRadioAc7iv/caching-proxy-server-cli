@@ -1,0 +1,26 @@
+{
+  "name": "caching-proxy-server-cli",
+  "version": "0.0.1",
+  "main": "./bin/index.js",
+  "type": "module",
+  "keywords": [
+    "proxy-server",
+    "caching",
+    "proxy",
+    "cli"
+  ],
+  "author": "Manav Gadhiya",
+  "license": "MIT",
+  "description": "A Caching Proxy Server CLI Tool",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "express": "^4.19.2",
+    "url-validation-checker": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  },
+  "bin": {
+    "caching-proxy": "./bin/index.js"
+  }
+}

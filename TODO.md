@@ -1,0 +1,6 @@
+- [ ] Forward Requests
+- [ ] Cache Responses
+- [ ] Beautify CLI
+- [ ] Document the Code
+- [ ] Add README.md
+- [ ] Submit to Roadmap.sh
