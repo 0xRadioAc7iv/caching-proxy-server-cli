@@ -1,6 +1,8 @@
-- [ ] Forward Requests
-- [ ] Cache Responses
+- [x] Forward Requests
+- [x] Cache Responses
+- [x] Add Custom Header indicating whether the response was cached
 - [ ] Beautify CLI
+- [ ] Refactor & Improve the Code
 - [ ] Document the Code
 - [ ] Add README.md
 - [ ] Submit to Roadmap.sh
